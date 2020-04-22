@@ -30,3 +30,11 @@ $(document).ready(function(){
 
 
   });
+
+// Burger
+
+headerBurger.onclick = function () {
+    headerBurger.classList.toggle('active');
+    headerNavBar.classList.toggle('active');
+  //  document.body.classList.toggle('menu-no-scroll');
+};
