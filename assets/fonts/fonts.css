@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'helveticaneuecyr-roman';
+    src: url('helveticaneuecyr-roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'helveticaneuecyr-italic';
+    src: url('helveticaneuecyr-italic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'helveticaneuecyr-medium';
+    src: url('helveticaneuecyr-medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'helveticaneuecyr-mediumitalic';
+    src: url('helveticaneuecyr-mediumitalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'helveticaneuecyr-bold';
+    src: url('helveticaneuecyr-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'helveticaneuecyr-bolditalic';
+    src: url('helveticaneuecyr-bolditalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'helveticaneuecyr-light';
+    src: url('helveticaneuecyr-light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'helveticaneuecyr-lightitalic';
+    src: url('helveticaneuecyr-lightitalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
